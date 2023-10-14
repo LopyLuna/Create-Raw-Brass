@@ -19,6 +19,8 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
+import uwu.lopyluna.create_brass_ore.registry.BCBlocks;
+import uwu.lopyluna.create_brass_ore.registry.BCItems;
 
 
 @Mod(BrassCreate.MOD_ID)
@@ -39,8 +41,8 @@ public class BrassCreate
         REGISTRATE.registerEventListeners(eventBus);
 
 
-
-
+        BCBlocks.register();
+        BCItems.register();
 
 
 
