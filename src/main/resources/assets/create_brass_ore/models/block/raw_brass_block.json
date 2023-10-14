@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "create_brass_ore:block/raw_brass_block"
+  }
+}

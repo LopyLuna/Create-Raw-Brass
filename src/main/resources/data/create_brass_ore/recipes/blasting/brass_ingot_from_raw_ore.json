@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "create_brass_ore:raw_brass"
+  },
+  "result": "create:brass_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

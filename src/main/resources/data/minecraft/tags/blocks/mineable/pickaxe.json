@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "create_brass_ore:asurine_brass_ore",
+    "create_brass_ore:veridium_brass_ore",
+    "create_brass_ore:raw_brass_block"
+  ]
+}

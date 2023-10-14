@@ -1,0 +1,8 @@
+{
+  "item.create_brass_ore.raw_brass": "Raw Brass",
+  "item.create_brass_ore.crushed_raw_brass": "Crushed Raw Brass",
+
+  "block.create_brass_ore.raw_brass_block": "Block of Raw Brass",
+  "block.create_brass_ore.asurine_brass_ore": "Asurine Brass Ore",
+  "block.create_brass_ore.veridium_brass_ore": "Veridium Brass Ore"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "create_brass_ore:raw_brass"
+    }
+  },
+  "result": {
+    "item": "create_brass_ore:raw_brass_block"
+  }
+}

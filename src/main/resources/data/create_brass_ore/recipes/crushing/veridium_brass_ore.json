@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create_brass_ore:veridium_brass_ore"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "count": 2,
+      "item": "create_brass_ore:crushed_raw_brass"
+    },
+    {
+      "chance": 0.35,
+      "item": "create_brass_ore:crushed_raw_brass"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.05,
+      "item": "create:veridium"
+    }
+  ]
+}

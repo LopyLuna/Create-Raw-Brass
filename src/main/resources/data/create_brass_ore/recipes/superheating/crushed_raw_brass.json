@@ -1,0 +1,23 @@
+{
+  "type": "create_dd:superheating",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_dd"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "create_brass_ore:crushed_raw_brass"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:brass_ingot"
+    },
+    {
+      "chance": 0.35,
+      "item": "create:brass_ingot"
+    }
+  ]
+}

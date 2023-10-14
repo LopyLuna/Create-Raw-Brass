@@ -17,7 +17,7 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
 
-version = "${mod_version}"
+version = mod_version
 group = 'uwu.lopyluna.create_brass_ore'
 archivesBaseName = "create_brass_ore-${minecraft_version}"
 

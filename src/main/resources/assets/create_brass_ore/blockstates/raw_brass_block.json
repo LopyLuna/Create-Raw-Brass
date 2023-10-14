@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "create_brass_ore:block/raw_brass_block"
+    }
+  }
+}

@@ -4,6 +4,7 @@ package uwu.lopyluna.create_brass_ore.registry;
 import static uwu.lopyluna.create_brass_ore.BrassCreate.REGISTRATE;
 
 import com.simibubi.create.AllCreativeModeTabs;
+import com.simibubi.create.Create;
 import com.tterrag.registrate.util.entry.BlockEntry;
 import net.minecraft.MethodsReturnNonnullByDefault;
 import net.minecraft.world.level.block.Block;
