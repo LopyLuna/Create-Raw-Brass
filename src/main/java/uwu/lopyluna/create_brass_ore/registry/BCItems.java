@@ -1,7 +1,6 @@
 package uwu.lopyluna.create_brass_ore.registry;
 
 import com.simibubi.create.AllCreativeModeTabs;
-import com.simibubi.create.Create;
 import com.tterrag.registrate.util.entry.ItemEntry;
 import net.minecraft.world.item.Item;
 
@@ -16,7 +15,7 @@ import javax.annotation.ParametersAreNonnullByDefault;
 public class BCItems {
 
     static {
-        Create.REGISTRATE.creativeModeTab(() -> AllCreativeModeTabs.BASE_CREATIVE_TAB);
+        REGISTRATE.creativeModeTab(() -> AllCreativeModeTabs.BASE_CREATIVE_TAB);
     }
 
     public static final ItemEntry<Item>
