@@ -1,0 +1,8 @@
+{
+  "item.create_brass_ore.raw_brass": "황동 원석",
+  "item.create_brass_ore.crushed_raw_brass": "분쇄된 황동 원석",
+
+  "block.create_brass_ore.raw_brass_block": "황동 원석 블록",
+  "block.create_brass_ore.asurine_brass_ore": "담청암 황동 광석",
+  "block.create_brass_ore.veridium_brass_ore": "심록암 황동 광석"
+}
